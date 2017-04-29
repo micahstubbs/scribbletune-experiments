@@ -1,0 +1,1 @@
+an example with the -D flag for timidity that uses a drum synth to play `sample.mid`
