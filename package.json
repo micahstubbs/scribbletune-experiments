@@ -24,6 +24,7 @@
   },
   "homepage": "https://github.com/micahstubbs/scribbletune-experiments#readme",
   "dependencies": {
+    "d3": "^4.8.0",
     "scribbletune": "^0.8.11"
   }
 }
